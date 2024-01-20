@@ -11,6 +11,9 @@ so the design code is easy where i defined inputs - rst , wr, clk , and 8 bit di
       and if the operation is read then we check if it 0 means the write opeartion is not done on this address . but the test is passed and another case is that where we checking that value is same or not in the dout and tarr. 
       
 **Result : ** 
+
+
+
 ![image](https://github.com/kapi36/Verification-of-RAM-using-System-Verilog-/assets/110424577/17639b00-d33d-4973-9de4-b90e08dd2912)
 
 ![image](https://github.com/kapi36/Verification-of-RAM-using-System-Verilog-/assets/110424577/d4e1c61c-a1e4-423b-81dd-a67451fa305d)
